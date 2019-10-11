@@ -1,4 +1,5 @@
-#include "stkqq.h"
+#include "stj.h"
+#include "q.h"
 #include<stdint.h>
 #include<assert.h>
 #include<stddef.h>
